@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Whythigh
-- 👀 I’m interested in data ananlysis, stock investing
+- 👀 I’m interested in data ananlysis, stock investing, applied maths
 - 🌱 I’m currently learning Python/R
-- 📫 How to reach me daniil.golub2812@gmail.com
+- 📫 If you have any queries please contact daniil.golub2812@gmail.com
 
 <!---
 Whythigh/Whythigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
